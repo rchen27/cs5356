@@ -101,6 +101,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Tim Delisle](people/tim-delisle.md)
 * [Srinivasa Teja](people/srinivasa-teja.md)
 * [Yanbo Li](people/yanbo-li.md)
+* [Roger Chen](people/roger-chen.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
 * [Shimiao Huang](people/shimiao-huang.md)
 * [Huai-Che (Acsa) Lu](people/huaiche-lu.md)
